@@ -11,8 +11,8 @@
 <p>
 A better way to present your money using fully featured digital currency
 </p>
-<a href="https://t.me/TryptoChainPortal" class="btn btn-primary">JOIN US</a>
-<a href="https://www.dextools.io/app/en/ether/pair-explorer/" class="btn btn-primary">CHART</a>
+<a href="https://t.me/TryptoChain" class="btn btn-primary">JOIN US</a>
+<a href="https://poocoin.app/tokens/" class="btn btn-primary">CHART</a>
 </div>
 </div>
 </div>

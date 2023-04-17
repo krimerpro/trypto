@@ -4,7 +4,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <meta name="description" content="TRYPTO CHAIN | BLOCKCHAIN">
-<meta name="keywords" content="trypto, chain, ethereum, blockchain, cryptocurrency, erc20">
+<meta name="keywords" content="trypto, chain, smartchain, blockchain, cryptocurrency, bsc">
 <meta name="author" content="TRYPTO">
 
 <title>TRYPTO CHAIN | BLOCKCHAIN</title>
