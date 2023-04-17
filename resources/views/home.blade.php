@@ -12,7 +12,7 @@
 A better way to present your money using fully featured digital currency
 </p>
 <a href="https://t.me/" class="btn btn-primary">JOIN US</a>
-<a href="https://poocoin.app/tokens/" class="btn btn-primary">CHART</a>
+<a href="https://www.dextools.io/app/en/ether/pair-explorer/" class="btn btn-primary">CHART</a>
 </div>
 </div>
 </div>
@@ -112,7 +112,7 @@ A better way to present your money using fully featured digital currency and now
 scalable digital asset, enabling real-time contracts and apps any where in the world.
 </p>
 <p>
-Bitcoin & Ethereum blockchains are slow and expensive. Cost of transactions is
+Bitcoin & other blockchains are slow and expensive. Cost of transactions is
 a high (and getting higher) Speed of others transactions is low
 </p>
 <a href="#" class="btn btn-primary">READ MORE ...</a>
