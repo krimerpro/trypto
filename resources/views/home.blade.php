@@ -156,7 +156,7 @@ Creation of Our Company
 <b></b>
 <h3>PHASE 2</h3>
 <p>
-LAUNCH ON PANCAKESWAP
+LAUNCH ON UNISWAP
 </p>
 </div>
 </div>
