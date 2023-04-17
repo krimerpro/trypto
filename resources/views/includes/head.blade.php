@@ -3,36 +3,28 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta name="description" content="AI ERUDEX | MACHINE LEARNING">
-<meta name="keywords" content="ai, erudex, smartchain, machinelearning, blockchain, cryptocurrency, bsc">
-<meta name="author" content="ERUDEX">
+<meta name="description" content="TRYPTO CHAIN | BLOCKCHAIN">
+<meta name="keywords" content="trypto, chain, smartchain, machinelearning, blockchain, cryptocurrency, bsc">
+<meta name="author" content="TRYPTO">
 
-<title>AI ERUDEX | MACHINE LEARNING</title>
-<link rel="icon" type="image/x-icon" href="{{ asset('images/favicon.png') }}" sizes="16x16">
+<title>TRYPTO CHAIN | BLOCKCHAIN</title>
+<link rel="icon" type="image/x-icon" href="{{ asset('images/logo.png') }}" sizes="16x16">
 
-<!-- Fonts -->
-<link href="https://fonts.googleapis.com/css?family=Comfortaa:300,400,500,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
 
-<link href="{{ asset('css/font-awesome.min.css') }}" rel="stylesheet">
+<link href="{{ asset('css/fontawesome-min.css') }}" rel="stylesheet">
 
-<!-- bootstrap css -->
-<link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}" type="text/css" media="all" />
-<!-- animate css -->
-<link rel="stylesheet" href="{{ asset('css/animate.min.css') }}" type="text/css" media="all" />
-<!-- owl carousel css -->
-<link rel="stylesheet" href="{{ asset('css/owl.carousel.min.css') }}"  type="text/css" media="all" />
-<link rel="stylesheet" href="{{ asset('css/owl.theme.default.min.css') }}"  type="text/css" media="all" />
-<!-- meanmenu css -->
-<link rel="stylesheet" href="{{ asset('css/meanmenu.min.css') }}" type="text/css" media="all" />
-<!-- magnific popup css -->
-<link rel="stylesheet" href="{{ asset('css/magnific-popup.min.css') }}" type="text/css" media="all" />
-<!-- boxicons css -->
-<link rel='stylesheet' href="{{ asset('css/icofont.min.css') }}" type="text/css" media="all" />
-<!-- flaticon css -->
-<link rel='stylesheet' href="{{ asset('css/flaticon.css') }}" type="text/css" media="all" />
-<!-- nice select css -->
-<link rel="stylesheet" href="{{ asset('css/nice-select.css') }}" type="text/css" media="all" />
-<!-- style css -->
-<link rel="stylesheet" href="{{ asset('css/style.css') }}" type="text/css" media="all" />
-<!-- responsive css -->
-<link rel="stylesheet" href="{{ asset('css/responsive.css') }}" type="text/css" media="all" />
+<link rel="stylesheet" href="{{ asset('css/fontawesome-min.css') }}">
+<link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
+<link rel="stylesheet" href="{{ asset('css/xsIcon.css') }}">
+<link rel="stylesheet" href="{{ asset('css/style.css') }}">
+<link rel="stylesheet" href="{{ asset('css/magnific-popup.css') }}">
+<link rel="stylesheet" href="{{ asset('css/owl.carousel.min.css') }}">
+<link rel="stylesheet" href="{{ asset('css/owl.theme.default.min.css') }}">
+<link rel="stylesheet" href="{{ asset('css/navigation.css') }}">
+<link rel="stylesheet" href="{{ asset('css/animate.css') }}">
+
+<link rel="stylesheet" href="{{ asset('css/style.css') }}">
+
+<link rel="stylesheet" href="{{ asset('css/responsive.css') }}" />

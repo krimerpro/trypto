@@ -1,97 +1,60 @@
-<!-- Preloader -->
-<div class="preloader">
-    <div class="preloader-wrapper">
-        <div class="preloader-content">
-            <div class="blob-1"></div>
-          <div class="blob-2"></div>
-        </div>
-    </div>
+<!--[if lt IE 10]>
+<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
+    your browser</a> to improve your experience.</p>
+<![endif]-->
+
+<div class="preloader" id="preloader">
+<svg class="xs-preload" viewbox="0 0 120 120" width="120px" height="120px">
+<circle class="inner" cx="60" cy="60" r="32" />
+<circle class="middle" cx="60" cy="60" r="38" />
+<circle class="outer" cx="60" cy="60" r="44" />
+</svg>
+<a class="cencel-preloader" href>Cancel Preloader</a>
 </div>
-<!-- Preloader -->
-<!-- Navbar -->
-<div class="fixed-top bg-white">
-    <div class="navbar-area sticky-black">
-        <div class="container">
-            <div class="mobile-nav">
-                <a href="#" class="mobile-brand">
-                    <img src="{{ asset('images/logo.png') }}" alt="logo" class="logo">
-                </a>
-                <div class="navbar-option">
-                    <div class="navbar-option-item">
-                        <button type="button">
-                            <i class="flaticon-user" ></i>
-                        </button>
-                    </div>
-                    <div class="navbar-option-item side-topbar-option">
-                        <button type="button">
-                            <i class="flaticon-grid" ></i>
-                        </button>
-                    </div>
-                    <div class="navbar-option-item">
-                        <button type="button" class="search-option">
-                            <i class="icofont-search-1"></i>
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="main-nav">
-            <div class="container">
-                <nav class="navbar navbar-expand-md navbar-light">
-                    <a class="navbar-brand" href="#">
-                        <img src="{{ asset('images/logo.png') }}" alt="logo" class="logo">
-                    </a>
-                    <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
-                        <ul class="navbar-nav mx-auto">
-                            <li class="nav-item">
-                                <a href="#" class="nav-link">HOME</a>
-                            </li>
 
-                            <li class="nav-item">
-                                <a href="#about" class="nav-link">ABOUT US</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a href="#services" class="nav-link">SERVICES</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a href="#projects" class="nav-link">PROJECTS</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a href="#news" class="nav-link">NEWS</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="navbar-option">
-                        <div class="navbar-option-item">
-                            <a href="#" class="btn main-btn">More Features</a>
-                        </div>
-                    </div>
-                </nav>
-            </div>
-        </div>
-    </div>
+<header class="header">
+<div class="container">
+<nav id="navigation1" class="navigation">
+<div class="nav-header">
+<a class="nav-brand" href="/">
+<img src="{{ asset('images/trypto_logo_blue.png') }}" alt>
+</a>
+<div class="nav-toggle"></div>
 </div>
-<!-- Navbar -->
-<!-- Header -->
-<header class="header header-bg header-bottom-space header-bg-image">
-    <div class="container-fluid p-lg-0 custom-container-fluid">
-        <div class="row m-lg-0 align-items-center">
-            <div class="col-lg-6 p-lg-0">
-                <div class="max-585 ms-lg-auto">
-                    <div class="header-content header-content-white m-0">
-                        <h1>Best Machine Learning Product Creator</h1>
-                        <p>Transforming businesses with Artificial Intelligence</p>
-                        <div class="button-group button-group-animated">
-                            <a href="https://poocoin.app/tokens/0x" class="btn main-btn">Poocoin Chart</a>
-                            <a href="https://t.me/ErudexAiPortal" class="btn main-btn main-btn-white">Telegram Group</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+<div class="nav-menus-wrapper xs-menu">
+<ul class="header-right align-to-right">
+<li class="language">
+<a href="#modal-popup-1" class="xs-modal-popup">
+<img src="{{ asset('images/english.png') }}" alt>
+EN
+</a>
+
+<div class="zoom-anim-dialog mfp-hide modal-language" id="modal-popup-1">
+<div class="modal-dialog modal-lg">
+<div class="modal-content">
+<div class="language-content">
+<p>Switch The Language</p>
+<ul class="flag-lists">
+<li><a href="/"><img src="{{ asset('images/flags/006-united-states.svg') }}" alt><span>English</span></a></li>
+<li><a href="/"><img src="{{ asset('images/flags/002-canada.svg') }}" alt><span>English</span></a></li>
+<li><a href="/"><img src="{{ asset('images/flags/003-vietnam.svg') }}" alt><span>Vietnamese</span></a></li>
+<li><a href="/"><img src="{{ asset('images/flags/004-france.svg') }}" alt><span>French</span></a></li>
+<li><a href="/"><img src="{{ asset('images/flags/005-germany.svg') }}" alt><span>German</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<ul class="nav-menu align-to-right">
+<li><a href="#home" class="scrolls">HOME</a></li>
+<li><a href="#featured" class="scrolls">Features</a></li>
+<li><a href="#roadmap" class="scrolls">Roadmap</a></li>
+<li><a href="#upcomingapp" class="scrolls">App</a></li>
+</ul>
+</div>
+</nav>
+</div>
 </header>
-<!-- Header -->
+<div id="particles-js">
