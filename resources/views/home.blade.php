@@ -12,7 +12,7 @@
 A better way to present your money using fully featured digital currency
 </p>
 <a href="https://t.me/TryptoChain" class="btn btn-primary">JOIN US</a>
-<a href="https://poocoin.app/tokens/0x0bc18ebf5c84cd70771df809956c9c1fcf034a08" class="btn btn-primary">CHART</a>
+<a href="https://poocoin.app/tokens/" class="btn btn-primary">CHART</a>
 </div>
 </div>
 </div>
